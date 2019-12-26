@@ -13,6 +13,7 @@ public class Secondclass {
 
 	public static void main(String[] args) {
 		System.out.println("hi this is my second class");
+		System.out.println("This is for to observe thr changes");
 		Secondclass s=new Secondclass();
 		s.mul();
 		
