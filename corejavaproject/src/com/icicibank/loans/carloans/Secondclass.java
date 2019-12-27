@@ -17,6 +17,9 @@ public class Secondclass {
 		Secondclass s=new Secondclass();
 		s.mul();
 		
+		
+		
+		
 	
 	
 		
