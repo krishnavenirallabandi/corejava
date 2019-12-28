@@ -9,7 +9,7 @@ public class Firstclass {
 		System.out.println("The addition of  a and b is"+sum);
 			}
 	void sub() {
-		sum=a-b;
+		diff=a-b;
 		System.out.println("The subtraction of a and b is"+diff);
 	}
 	void mul() {
@@ -24,6 +24,7 @@ public class Firstclass {
 		Firstclass obj1=new Firstclass();
 		obj1.add();
 		obj1.sub();
+		obj1.mul();
 		
 		
 		
